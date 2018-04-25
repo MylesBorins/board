@@ -157,7 +157,7 @@ purposes of this Section, the term "Subsidiaries" shall mean the subset of all R
 - b) Only one Member which is part of a group of Related Companies (as defined
 below) shall be entitled at one time to have a representative on the Board or vote on matters
 voted on by the Members (except as otherwise provided below); provided, however, that the (i)
-TSC Director (as defined in Section 4.3(e) below) or the Individual Director (as defined in
+TSC Director (as defined in Section 4.3(e) below) or CommComm Director (as defined in Section 4.3(f) below) or the Individual Director (as defined in
 Section 4.3(d) below), but not both, may be an employee of a Platinum Member or one of its
 Related Companies, notwithstanding the fact that such Platinum Member is also represented on
 the Board by virtue of its right to appoint a Director under Sections 2.3(a) and 4.3(a) of these Bylaws,
@@ -357,7 +357,7 @@ Number"). The Board shall comprise the Directors described in Section 4.3 below.
 ### Section 4.3 Nomination, Election and Term of Office of Directors
 - a) Each Platinum Member (while remaining in good standing) shall be entitled
 individually to appoint one Director (each a "Platinum Director"). Each Platinum Director shall
-serve in accordance with Section 4.3(h) below and until his or her successor shall be duly
+serve in accordance with Section 4.3(i) below and until his or her successor shall be duly
 appointed or until his or her earlier resignation or removal.
 - b) At the time of any election of Directors where there are at least three (3) Gold
 Members in good standing, each Gold Member in good standing shall have the right to vote,
@@ -367,7 +367,7 @@ down to the nearest whole number, and (ii) that number of Directors equal to the
 Platinum Directors then being appointed or in office, less three (3) (each such Director being
 referred to as a "Gold Director"), subject to a maximum of three (3) Gold Directors. Prior to the
 first annual action of Members, the initial Gold Director(s) shall be elected at a time approved by
-the Board. Each Gold Director shall serve in accordance with Section 4.3(h) below and until his
+the Board. Each Gold Director shall serve in accordance with Section 4.3(i) below and until his
 or her successor is elected and qualified or until his or her earlier resignation or removal. The
 selection of nominees for such position(s) shall be performed under such nominating procedures
 as may be set by the Board from time to time.
@@ -380,29 +380,29 @@ to the number of Platinum Directors then being appointed or in office, less the 
 Directors then being appointed or in office, less three (3) (each such Director being referred to as
 a "Silver Director"). Prior to the first annual action of Members, the initial Silver Director(s)
 shall be elected at a time approved by the Board. Each Silver Director shall serve in accordance
-with Sections 4.3(f) and 4.3(h) below and until his or her successor is elected and qualified or
+with Sections 4.3(g) and 4.3(i) below and until his or her successor is elected and qualified or
 until his or her earlier resignation or removal. The selection of nominees for such position(s)
 shall be performed under such nominating procedures as may be set by the Board from time to
 time.
 - d) At the time of any election of Directors where the number of Platinum Directors is
 three or greater, each Individual Member in good standing shall have the right to vote, together
-with the other Individual Members as a class, to elect two Individual Members to serve as a
+with the other Individual Members as a class, to elect one Individual Member to serve as a
 Director (such Director being referred to as the "Individual Director"). Prior to the first annual
-action of Members, the initial Individual Director(s) shall be elected at a time approved by the
-Board. Each Individual Director shall serve in accordance with Section 4.3(h) below and until
+action of Members, the initial Individual Director shall be elected at a time approved by the
+Board. The Individual Director shall serve in accordance with Section 4.3(i) below and until
 his or her successor is elected and qualified or until his or her earlier resignation or removal
 for staggered terms as approved by the Board of Directors. The selection of nominees for such
-position(s) shall be performed under such nominating procedures as may be set by the Board from
+position shall be performed under such nominating procedures as may be set by the Board from
 time to time.
 - e) At the time of any election of Directors where the number of Platinum Directors is
 two or greater, the Technical Steering Committee shall designate a representative to the Board of
 Directors in accordance with Section 5.4(b) below, which representative shall automatically be a
-member of the Board (the "TSC Director"). Initially the Node.js Foundation will start with one
-top level project, however, the Board of Directors may in the future approve the creation of one
-or more additional top level projects relevant to the Node.js community. As additional top level
-projects are approved, the Board shall determine an appropriate model for representing the
-additional top level project technical steering committees on the Board.
-- f) Notwithstanding anything to the contrary contained herein, in the event that after any
+member of the Board (the "TSC Director").
+- f) At the time of any election of Directors where the number of Platinum Directors is
+two or greater, the Community Committee shall designate a representative to the Board of
+Directors in accordance with Section 5.4(a) below, which representative shall automatically be a
+member of the Board (the "CommComm Director").
+- g) Notwithstanding anything to the contrary contained herein, in the event that after any
 election of Directors, the number of Platinum Members decreases or the number of Gold
 Members increases, and such decrease or increase, as the case may be, causes a situation where
 the number of Silver Directors previously elected exceeds the number of Platinum Directors then
@@ -412,10 +412,10 @@ annual election of Directors, at which time the required decrease in the number 
 Directors shall take effect. If the terms of a sufficient number of Silver Directors are not expiring
 as of the date of such election, the selection of the Silver Director to resign shall be determined
 by such procedures as may be set by the Board of Directors from time to time.
-- g) Any Director nominated, appointed or elected by any class of Members, or by any
+- h) Any Director nominated, appointed or elected by any class of Members, or by any
 Member, may, but shall not automatically, be re-nominated, re-appointed and/or re-elected for
 additional terms.
-- h) Each Director (other than the Individual Director) shall be an employee of the
+- i) Each Director (other than the Individual Director) shall be an employee of the
 Member (or a Related Company) which nominated or appointed him or her at the time of such
 appointment or nomination. Each Director shall hold office until the earliest to occur of the
 expiration of the term for which such Director was appointed or elected and such Director’s
@@ -423,7 +423,7 @@ successor is appointed or elected and qualified, or until his or her earlier dea
 removal, and in the case of a Platinum, Gold or Silver Director, until the earlier of (i) expiration
 or termination of Membership of the Member that nominated or appointed such Director, (ii) the
 combination, by merger, acquisition or otherwise, of two Members that each have
-representatives on the Board (disregarding for such purpose the TSC Director), upon which event
+representatives on the Board (disregarding for such purpose the TSC Director or the CommComm Director), upon which event
 one of the two representatives, as designated by the surviving Member, shall be deemed to have
 resigned, or (iii) if requested by the Board or the employer of such Director, upon the termination
 of the employment of such Director by the Member that nominated or appointed such Director.
@@ -431,11 +431,11 @@ In addition, during such times as the Membership of any Member that has a repres
 serving as a Director is suspended pursuant to Section 2.11 above, the attendance and voting
 rights of such Director representative shall also be suspended until such time, if ever, as the
 suspension of such Member is lifted.
-- i) Each Platinum, Gold or Silver Director (or the Member that appointed or is the
-employer of such Director), the TSC, and the Individual Director may designate in writing (which designation may be withdrawn in writing at any time by such Director, Member, the
-TSC, or the Individual Director, as the case may be) an individual to act as a Director in his or
+- j) Each Platinum, Gold or Silver Director (or the Member that appointed or is the
+employer of such Director), the TSC, the CommComm and the Individual Director may designate in writing (which designation may be withdrawn in writing at any time by such Director, Member, the
+TSC, CommComm, or the Individual Director, as the case may be) an individual to act as a Director in his or
 her stead, whether for a single meeting or as a standing alternate. Any such alternate Director
-shall also be an employee of the Member that appointed or nominated the original Director (except for the alternate of the TSC Director, the alternative for whom shall be another member
+shall also be an employee of the Member that appointed or nominated the original Director (except for the alternate of the TSC Director or the CommComm Director, the alternative for whom shall be another member
 of the Technical Steering Committee, and for the Individual Member, whose alternate shall be
 another Individual Member). Any such alternate Director shall be entitled to (i) attend and vote
 at all meetings which the designating Director does not attend, (ii) sign all written consents in
@@ -448,7 +448,7 @@ either vote as instructed in such proxy, or to vote in the stead of such absent 
 manner as such Officer may believe appropriate, consistent with the instructions of the proxy.
 Any such proxy shall be valid only with respect to the meeting and such specific matters (or with
 respect to all matters, if so desired) as may be stated in such proxy.
-- j) The Board may approve from time to time such reasonable attendance and other
+- k) The Board may approve from time to time such reasonable attendance and other
 requirements as it shall deem to be advisable to ensure that seats on the Board are held by active,
 contributing individuals. Such rules may provide that in the event that such requirements have
 not been met, a Director who fails to meet such requirements shall automatically be deemed to
@@ -483,8 +483,8 @@ serve for the balance of such removed Director’s term.
 ### Section 4.6 Vacancies
 - a) Vacancies on the Board occurring as a result of the death, resignation, removal or
 termination of employment of a Director who was appointed or elected by a Member, or who
-was nominated and elected by a class of Members or the TSC, may be filled by such Member or
-class of Members or the TSC, as applicable. All other vacancies shall be filled by the vote of a
+was nominated and elected by a class of Members, or the TSC or the CommComm, may be filled by such Member or
+class of Members or the TSC or the CommComm, as applicable. All other vacancies shall be filled by the vote of a
 majority of Directors then in Good Standing, whether or not less than a quorum, or by a sole
 remaining Director. The term of a Director so appointed or elected shall be the unexpired portion
 of the term of the Director, if any, whom the Director so appointed or elected is replacing.
@@ -548,7 +548,7 @@ Board or the classes of Members eligible to appoint and/or elect Directors;
   - ix) adopting or amending any IP Policy document, or amending or deleting
 any provision of these By-laws relating to the IP Policy; and
   - x) adopting amending any charter or other document relating to the
-operations or scope of the TSC.
+operations or scope of the TSC or the CommComm.
 - c) No Director whose attendance and voting rights have been suspended shall be counted
 for purposes of determining quorum, the number of Directors then in Good Standing or the
 number of Directors required for voting purposes, unless otherwise required by law, these Bylaws
